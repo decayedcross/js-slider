@@ -5,7 +5,7 @@
   "authors": [
     "decayedcross <decayedcross@gmail.com>"
   ],
-  "description": "responsive media slider",
+  "description": "Javascript / HTML / CSS Responsive Media Slider that uses bower.",
   "main": "js/slider.js",
   "keywords": [
     "javascript",
