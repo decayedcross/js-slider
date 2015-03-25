@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "homepage": "https://github.com/decayedcross/js-slider",
   "authors": [
-    "decayedcross <decayedcross@gmail.com>"
+    "antfuentes87 <antfuentes87@gmail.com>"
   ],
-  "description": "Javascript / HTML / CSS responsive media slider that uses bower.",
+  "description": "Media slider",
   "main": "js/slider.js",
   "keywords": [
+    "less",
     "javascript",
-    "slider",
-    "less"
+    "html",
+    "css"
   ],
   "license": "MIT",
   "private": true,
